@@ -6,4 +6,5 @@ public class Hello{
 class Foo{
 }
 class Baz{
+class Bar{
 }
